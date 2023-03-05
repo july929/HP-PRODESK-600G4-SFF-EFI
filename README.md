@@ -1,16 +1,14 @@
-## 实现功能
-- CPU 睿频变频正常
-- 核显 UHD630 显存 2048MB
-- 硬件加速 4K HEVC/H.265解码
-- 声卡 内建 layout-id 为 13
-- 麦克风正常
-- HDMI+VGA双屏正常
-- 睡眠唤醒
-- 有线网卡
-
-## 更新日志
-
-- 2021年02月02日
-- 支持macOS Big Sur 11.2版本；
-- 修复硬件加速 4K HEVC/H.265解码
-- 更新到 OpenCore 官方原版 0.6.5,使用OpenCanopy图形界面;
+## 电脑配置
+**电脑参数：**[Hp Prodesk 600G4 SFF][3]
+|配置|型号|
+|----|----|
+|系统|macOS Monterey 13.3.1|
+|CPU|Intel Core i5-6600t @ 2.7GHz 4核4线程|
+|显卡|Intel HD Graphics 530 1536 MB|
+|内存|金士顿 DDR4 2133MHz 16GB|
+|硬盘|西数 SN550 256GB（NVMe SSD）|
+|网卡|BCM943224PCIEBT2/AC 7265|
+|声卡|Realtek ALC221|
+|SMBIOS|Mac mini (2018)| 
+|BIOS|N23 Ver.02.49 07/12/2020| 
+|引导|OpenCore 0.8.0| 
