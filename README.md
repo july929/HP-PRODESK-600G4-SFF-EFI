@@ -13,7 +13,6 @@
 |BIOS|Q07 Ver.02.02.04 08/06/2018| 
 |引导|OpenCore 0.8.8| 
 
-
 ## 实现功能
 - CPU 睿频变频正常
 - 核显 UHD630 显存 1536MB
@@ -28,8 +27,6 @@
 ## 存在问题
 - macOS下，主板内置的M.2 NvMe接口不工作不能被识别，折腾了很久都没搞好，最后某宝花了20元购置Pcie转M.2扩展卡才能识别Nvme硬盘；
 ![主板][3]
-
-
 
 ## 截图预览
 
@@ -49,16 +46,8 @@
 ![Geekbench5跑分][17]
 
 
-  [1]: https://yangwenqing.com/usr/uploads/2023/03/2660540754.png
   [2]: https://support.hp.com/cn-zh/product/hp-prodesk-600-g4-small-form-factor-pc/21341193/document/c06066053#AbT8
   [3]: https://yangwenqing.com/usr/uploads/2023/03/2873318083.png
-  [4]: https://github.com/july929/HP-PRODESK-600G4-SFF-EFI/releases
-  [5]: https://yangwenqing.com/usr/uploads/2023/03/3496644070.jpg
-  [6]: https://yangwenqing.com/usr/uploads/2023/03/1613980564.jpg
-  [7]: https://yangwenqing.com/usr/uploads/2023/03/3554908015.jpg
-  [8]: https://yangwenqing.com/usr/uploads/2023/03/3875918242.jpg
-  [9]: https://yangwenqing.com/usr/uploads/2023/03/3544984697.jpg
-  [10]: https://yangwenqing.com/usr/uploads/2023/03/3894026990.jpg
   [11]: https://yangwenqing.com/usr/uploads/2023/03/910438299.png
   [12]: https://yangwenqing.com/usr/uploads/2023/03/1385903077.png
   [13]: https://yangwenqing.com/usr/uploads/2023/03/1342900964.png
