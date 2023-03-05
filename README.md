@@ -7,7 +7,7 @@
 |显卡|Intel UHD Graphics 630 1536 MB|
 |内存|酷兽 DDR4 2666MHz 32GB|
 |硬盘|镁光 3400 1TB（NVMe SSD）|
-|网卡|Intel AC 7265|
+|网卡|Intel I219-LM、Intel AC 7265|
 |声卡|Conexant CX20632|
 |SMBIOS|Mac mini (2018)| 
 |BIOS|Q07 Ver.02.02.04 08/06/2018| 
